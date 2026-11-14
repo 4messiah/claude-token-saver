@@ -1,0 +1,5 @@
+{
+  "name": "claude-token-saver",
+  "owner": { "name": "4messiah" },
+  "plugins": [{ "name": "token-saver", "source": "./" }]
+}

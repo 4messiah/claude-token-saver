@@ -1,0 +1,1 @@
+{ "name": "token-saver", "version": "0.1.0", "description": "Trims noisy shell output, skips duplicate and oversized file reads, and reminds you to /compact." }
